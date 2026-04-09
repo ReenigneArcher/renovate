@@ -2921,7 +2921,7 @@ Renovate only queries the OSV database for dependencies that use one of these da
 
 The entire database is downloaded locally by [renovate-offline](https://github.com/renovatebot/osv-offline) and queried offline.
 
-### Malicious package detection and protection
+#### Malicious package detection and protection
 
 <!-- prettier-ignore -->
 !!! note
